@@ -1,0 +1,25 @@
+.item {
+	align-items: center;
+	display: flex;
+	justify-content: flex-start;
+}
+
+.item-checkbox {
+	margin-right: 20px;
+	zoom: 1.2;
+}
+
+.item-text {
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25px;
+}
+
+.item-check {
+	text-decoration: line-through;
+}
+
+.item-uncheck {
+	text-decoration: none;
+}

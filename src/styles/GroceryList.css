@@ -1,0 +1,18 @@
+.container {
+  margin: auto;
+  max-width: 1280px;
+}
+
+.add-item textarea {
+  width: 50%;
+}
+
+.add-item button {
+  background-color: grey;
+  border: none;
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px 20px;
+}
